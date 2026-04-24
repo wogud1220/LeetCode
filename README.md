@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/wogud1220/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/wogud1220/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0476-number-complement](https://github.com/wogud1220/LeetCode/tree/main/0476-number-complement/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
