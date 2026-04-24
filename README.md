@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/wogud1220/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/wogud1220/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/wogud1220/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0283-move-zeroes](https://github.com/wogud1220/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wogud1220/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0283-move-zeroes](https://github.com/wogud1220/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
