@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wogud1220/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/wogud1220/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/wogud1220/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/wogud1220/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
