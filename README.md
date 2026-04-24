@@ -28,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/wogud1220/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/wogud1220/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
