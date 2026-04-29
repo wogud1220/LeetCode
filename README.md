@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/wogud1220/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/wogud1220/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/wogud1220/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/wogud1220/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/wogud1220/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 ## Hash Table
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/wogud1220/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/wogud1220/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/wogud1220/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/wogud1220/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/wogud1220/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 ## Linked List
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/wogud1220/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/wogud1220/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/wogud1220/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/wogud1220/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/wogud1220/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/wogud1220/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -117,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/wogud1220/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/wogud1220/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
