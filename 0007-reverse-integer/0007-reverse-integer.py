@@ -19,10 +19,10 @@ class Solution:
             result = int(result)
         
 
-        if result >= (2**31) -1 or result <= -(2**31):
+        if result >= (2**31) -1 or result < -(2**31):
             return 0
 
-            
+
         return result
         
         
