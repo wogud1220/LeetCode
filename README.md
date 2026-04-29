@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/wogud1220/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/wogud1220/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/wogud1220/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wogud1220/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0480-sliding-window-median](https://github.com/wogud1220/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/wogud1220/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
