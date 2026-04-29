@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/wogud1220/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/wogud1220/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/wogud1220/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/wogud1220/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+| [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/wogud1220/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/wogud1220/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+| [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/wogud1220/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/wogud1220/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
