@@ -5,17 +5,11 @@ class Solution:
         if len(s) != len(t):
             return False
 
+        d = defaultdict(int)
 
-        hash = defaultdict(int)
-        hash2 = defaultdict(int)
+        for ch in s:
+            d[ch] += 1
+        for ch in t:
+            d[ch] -= 1
 
-        for ch, ch2 in zip(s, t):
-            hash[ch] += 1
-            hash2[ch2] += 1
-        
-        for k,v in hash.items():
-            if hash2[k] != v:
-                return False
-        return True
-
-
+        return all(v == 0 for v in d.values())
