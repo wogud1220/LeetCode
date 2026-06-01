@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/wogud1220/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/wogud1220/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/wogud1220/LeetCode/tree/main/0709-to-lower-case/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Stack
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/wogud1220/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 | [0500-keyboard-row](https://github.com/wogud1220/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0645-set-mismatch](https://github.com/wogud1220/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/wogud1220/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/wogud1220/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
