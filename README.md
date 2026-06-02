@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wogud1220/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/wogud1220/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/wogud1220/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/wogud1220/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/wogud1220/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/wogud1220/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/wogud1220/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/wogud1220/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/wogud1220/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wogud1220/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/wogud1220/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/wogud1220/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
