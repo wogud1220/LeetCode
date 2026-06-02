@@ -82,12 +82,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/wogud1220/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/wogud1220/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/wogud1220/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/wogud1220/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/wogud1220/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/wogud1220/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/wogud1220/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/wogud1220/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/wogud1220/LeetCode/tree/main/0069-sqrtx/) | Easy |
