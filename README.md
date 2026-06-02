@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/wogud1220/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/wogud1220/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/wogud1220/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0258-add-digits](https://github.com/wogud1220/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/wogud1220/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/wogud1220/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/wogud1220/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/wogud1220/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/wogud1220/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/wogud1220/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/wogud1220/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -228,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/wogud1220/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/wogud1220/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
