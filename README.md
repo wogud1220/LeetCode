@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/wogud1220/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/wogud1220/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/wogud1220/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/wogud1220/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/wogud1220/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/wogud1220/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/wogud1220/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/wogud1220/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/wogud1220/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/wogud1220/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Tree
@@ -222,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/wogud1220/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/wogud1220/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/wogud1220/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
