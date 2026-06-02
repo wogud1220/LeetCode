@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/wogud1220/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/wogud1220/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/wogud1220/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0412-fizz-buzz](https://github.com/wogud1220/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/wogud1220/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0500-keyboard-row](https://github.com/wogud1220/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/wogud1220/LeetCode/tree/main/0520-detect-capital/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/wogud1220/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/wogud1220/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/wogud1220/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/wogud1220/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/wogud1220/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/wogud1220/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/wogud1220/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0412-fizz-buzz](https://github.com/wogud1220/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
