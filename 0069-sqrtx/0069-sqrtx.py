@@ -1,5 +1,23 @@
 import math
 class Solution:
     def mySqrt(self, x: int) -> int:
-        return int(math.sqrt(x))
+        
+
+        left = 0
+        right = x
+        result = 0
+        while left <= right:
+            mid = (left + right) // 2
+
+            if mid * mid == x:
+                return mid
+
+            elif mid * mid < x:
+                left = mid + 1
+                result = mid
+            elif mid * mid > x:
+                right = mid -1
+
+        return result
+
         
