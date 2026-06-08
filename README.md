@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/wogud1220/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/wogud1220/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/wogud1220/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/wogud1220/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
