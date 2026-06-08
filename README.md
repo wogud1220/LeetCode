@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/wogud1220/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/wogud1220/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/wogud1220/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wogud1220/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/wogud1220/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/wogud1220/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/wogud1220/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wogud1220/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wogud1220/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/wogud1220/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/wogud1220/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/wogud1220/LeetCode/tree/main/0268-missing-number/) | Easy |
