@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/wogud1220/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/wogud1220/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/wogud1220/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/wogud1220/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
