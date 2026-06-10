@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1211-queries-quality-and-percentage](https://github.com/wogud1220/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/wogud1220/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/wogud1220/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
+| [1407-top-travellers](https://github.com/wogud1220/LeetCode/tree/main/1407-top-travellers/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/wogud1220/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/wogud1220/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## Queue
