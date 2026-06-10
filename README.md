@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1075-project-employees-i](https://github.com/wogud1220/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/wogud1220/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/wogud1220/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/wogud1220/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/wogud1220/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/wogud1220/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/wogud1220/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
