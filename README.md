@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/wogud1220/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wogud1220/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/wogud1220/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/wogud1220/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0053-maximum-subarray](https://github.com/wogud1220/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/wogud1220/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/wogud1220/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/wogud1220/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wogud1220/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/wogud1220/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/wogud1220/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/wogud1220/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/wogud1220/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/wogud1220/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/wogud1220/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/wogud1220/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/wogud1220/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
