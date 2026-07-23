@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/wogud1220/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0844-backspace-string-compare](https://github.com/wogud1220/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/wogud1220/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/wogud1220/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/wogud1220/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/wogud1220/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/wogud1220/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/wogud1220/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/wogud1220/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/wogud1220/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/wogud1220/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/wogud1220/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/wogud1220/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/wogud1220/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/wogud1220/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
