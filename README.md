@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/wogud1220/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/wogud1220/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/wogud1220/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/wogud1220/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/wogud1220/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/wogud1220/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/wogud1220/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/wogud1220/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/wogud1220/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/wogud1220/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/wogud1220/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/wogud1220/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,4 +357,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/wogud1220/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/wogud1220/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/wogud1220/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 <!---LeetCode Topics End-->
