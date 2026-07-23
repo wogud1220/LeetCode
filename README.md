@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/wogud1220/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/wogud1220/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/wogud1220/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/wogud1220/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/wogud1220/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wogud1220/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/wogud1220/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
