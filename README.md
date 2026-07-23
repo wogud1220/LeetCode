@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/wogud1220/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
+| [2716-minimize-string-length](https://github.com/wogud1220/LeetCode/tree/main/2716-minimize-string-length/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/wogud1220/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
+| [2716-minimize-string-length](https://github.com/wogud1220/LeetCode/tree/main/2716-minimize-string-length/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
