@@ -7,7 +7,7 @@
 class Solution:
     def __init__(self):
         self.arr = []
-        
+
     def inorder(self, root):
         if root is None:
             return
