@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/wogud1220/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/wogud1220/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/wogud1220/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/wogud1220/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/wogud1220/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/wogud1220/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/wogud1220/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/wogud1220/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/wogud1220/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/wogud1220/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/wogud1220/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/wogud1220/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Hash Table
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/wogud1220/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/wogud1220/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/wogud1220/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/wogud1220/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
