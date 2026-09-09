@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/wogud1220/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/wogud1220/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/wogud1220/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/wogud1220/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/wogud1220/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2716-minimize-string-length](https://github.com/wogud1220/LeetCode/tree/main/2716-minimize-string-length/) | Easy |
 ## Linked List
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/wogud1220/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/wogud1220/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/wogud1220/LeetCode/tree/main/0441-arranging-coins/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/wogud1220/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wogud1220/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/wogud1220/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/wogud1220/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## String Matching
@@ -267,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/wogud1220/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/wogud1220/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/wogud1220/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
