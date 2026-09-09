@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/wogud1220/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/wogud1220/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/wogud1220/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/wogud1220/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/wogud1220/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2716-minimize-string-length](https://github.com/wogud1220/LeetCode/tree/main/2716-minimize-string-length/) | Easy |
 ## Linked List
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/wogud1220/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/wogud1220/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/wogud1220/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/wogud1220/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/wogud1220/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/wogud1220/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/wogud1220/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2418-sort-the-people](https://github.com/wogud1220/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
