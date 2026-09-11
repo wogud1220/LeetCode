@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-fix-names-in-a-table](https://github.com/wogud1220/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/wogud1220/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/wogud1220/LeetCode/tree/main/1729-find-followers-count/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/wogud1220/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
