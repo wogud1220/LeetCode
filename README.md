@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/wogud1220/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/wogud1220/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1002-find-common-characters](https://github.com/wogud1220/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/wogud1220/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/wogud1220/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/wogud1220/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/wogud1220/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/wogud1220/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/wogud1220/LeetCode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1002-find-common-characters](https://github.com/wogud1220/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/wogud1220/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/wogud1220/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/wogud1220/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0645-set-mismatch](https://github.com/wogud1220/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/wogud1220/LeetCode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1002-find-common-characters](https://github.com/wogud1220/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/wogud1220/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/wogud1220/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/wogud1220/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
