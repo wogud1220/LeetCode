@@ -4,30 +4,20 @@ r, c = int(r), int(c)
 
 # Please write your code here.
 # n*n , t초, r행, c열, d = u d r l
-dx, dy = [1, 0, -1, 0], [0, -1, 0, 1]
+dx, dy = [1, 0, -1, 0], [0, 1, 0, -1]
+dir_num = 3
 
-# if d == 'U':
-#     dir_num = (dir_num) % 4
+if d == 'U':
+    dir_num = (dir_num) % 4
 
-# elif d == "D":
-#     dir_num = (dir_num - 2) % 4
+elif d == "D":
+    dir_num = (dir_num - 2) % 4
 
-# elif d == "R":
-#     dir_num = (dir_num + 1) % 4
+elif d == "R":
+    dir_num = (dir_num + 1) % 4
 
-# elif d == "L":
-#     dir_num = (dir_num - 1) % 4
-
-
-if d == "R":
-    dir_num = 0
-elif d == "U":
-    dir_num = 1
 elif d == "L":
-    dir_num = 2
-else:
-    dir_num = 3
-
+    dir_num = (dir_num - 1) % 4
 
 
 # arr = [[0 for _ in range(2)] for _ in range(n+1)]
