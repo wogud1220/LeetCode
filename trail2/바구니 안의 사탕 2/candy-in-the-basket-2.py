@@ -8,7 +8,7 @@ for _ in range(N):
     pos.append(p)
 
 # Please write your code here.
-arr = [0] * (max(pos) + 1)
+arr = [0] * (max(pos)+1)
 for c,p in zip(candy,pos):
     arr[p] += c 
 
